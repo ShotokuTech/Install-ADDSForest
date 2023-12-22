@@ -4,3 +4,4 @@ In my previous video I showed how to customize a Server 2022 image for Hyper-V u
 
 Server 2022 Active Directory Install-ADDSForest PowerShell Command
 https://youtu.be/tqoDwtY8rQQ
+![]()
